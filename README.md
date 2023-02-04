@@ -20,7 +20,7 @@
 ## ⚙ Technology Stacks
 
 
-  <img src="https://img.shields.io/badge/javascript%20-%23092E20.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>   <img src="https://img.shields.io/badge/Java-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img src="https://img.shields.io/badge/typescript%20-%234f0599.svg?&style=for-the-badge&logo=typescript&logoColor=white%22"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/javascript%20-%23092E20.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>   <img src="https://img.shields.io/badge/Java-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  
   
 <br>
   
