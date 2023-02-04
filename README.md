@@ -1,4 +1,4 @@
-# Registryx (Employee Register) 📝
+# Registryx (Employees Register) 📝
 <br>
 <p align="center">
   <a >
